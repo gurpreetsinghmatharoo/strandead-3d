@@ -1,0 +1,4 @@
+Initialize camera code
+Camera pitch and yaw
+Create surface with tilemap, save it to buffer, restore from it
+Player movement with yaw
